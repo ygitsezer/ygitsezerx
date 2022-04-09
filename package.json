@@ -15,7 +15,7 @@
     "cool-images": "^1.0.3",
     "discord.js": "^11.3.2",
     "jimp": "^0.8.1",
-    "moment": "^2.19.1",
+    "moment": "^2.29.2",
     "moment-duration-format": "^1.3.0",
     "ms": "^2.0.0",
     "simple-youtube-api": "^5.2.1",
